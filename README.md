@@ -2,18 +2,35 @@
 
 ## Description
 
-The primary purpose of this script is to provide a straightforward method to install platform-tools.
+This script simplifies the installation process of platform-tools for Android Debug Bridge (ADB).
 
 ## Usage
 
-1. **Download**: Clone the repo or download the exe form the releases to your local machine.
+### Download
+
+1. **Clone the repository** or download the executable from the releases section to your local machine.
 
 2. **Execution**:
-   - Extract the exe if you have downloaded from the releases.
+   - If downloaded from the releases, extract the executable file.
    - Double-click the `run.bat` file.
-   - The script will prompt for admin rights and then execute the PowerShell script.
+
+## Requirements
+
+- PowerShell version 3.0 or later is recommended.
+- Eyes and Brain.
+
+## Updating PowerShell (For Outdated Windows Users)
+
+If your PowerShell version is not up-to-date, you can manually update it to version 5.1 by downloading and installing the appropriate package from Microsoft:
+
+- **Download PowerShell**: [HERE](https://www.microsoft.com/en-us/download/details.aspx?id=54616)
+
+Please ensure to download the correct version (32-bit or 64-bit) according to your system architecture.
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
+Contributions are welcome! Fork this repository and submit a pull request to contribute.
 
+## Issues
+
+For any issues or feature requests, please open an issue on the repository.
